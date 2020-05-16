@@ -1,0 +1,70 @@
+c:\users\lucas\documents\visual studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Form1.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.exe
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.pdb
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.exe
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.pdb
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.ventanainicial.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.menuadmin.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.crear_viaje.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Modif_datos_pers.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.modificar_viaje.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.crear_empresa.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.ver_viajes.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.modif_empresa.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.patentes.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.menuusuario.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.lista_usuarios.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.seleccionar_viaje.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.nueva_ciudad.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.eliminar_ciudad.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.exe.config
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.exe
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.pdb
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.exe
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.pdb
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.crear_empresa.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Form1.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.crear_viaje.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.eliminar_ciudad.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.lista_usuarios.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.menuadmin.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.menuusuario.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.modificar_viaje.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Modif_datos_pers.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.modif_empresa.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.nueva_ciudad.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.patentes.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Properties.Resources.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.seleccionar_viaje.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.ventanainicial.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.ver_viajes.resources
+C:\Users\Lucas\Desktop\UNCAus 2017\Pendrive\Documentos\UNCaus\Paradigmas\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.exe.config
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.exe
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\bin\Debug\ProyectoFinalParadigmas.pdb
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.crear_empresa.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Form1.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.crear_viaje.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.eliminar_ciudad.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.lista_usuarios.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.menuadmin.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.menuusuario.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.modificar_viaje.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Modif_datos_pers.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.modif_empresa.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.nueva_ciudad.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.patentes.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.Properties.Resources.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.seleccionar_viaje.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.ventanainicial.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.ver_viajes.resources
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.exe
+C:\Users\lucas\Desktop\UNCAus 2019\Historico\UNCaus\2° Año\Paradigmas de programación\Proyecto Final\ProyectoFinalParadigmas\ProyectoFinalParadigmas\obj\Debug\ProyectoFinalParadigmas.pdb

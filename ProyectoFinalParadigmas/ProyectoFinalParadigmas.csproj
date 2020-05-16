@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0EEE24E3-68AD-477E-AFA7-ABE4468EF7BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProyectoFinalParadigmas</RootNamespace>
+    <AssemblyName>ProyectoFinalParadigmas</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Archivo.cs" />
+    <Compile Include="Basededatos.cs" />
+    <Compile Include="calculo_de_precio.cs" />
+    <Compile Include="categoria.cs" />
+    <Compile Include="ciudad.cs" />
+    <Compile Include="colectivo.cs" />
+    <Compile Include="combustible.cs" />
+    <Compile Include="crear_empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crear_empresa.Designer.cs">
+      <DependentUpon>crear_empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crear_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crear_usuario.Designer.cs">
+      <DependentUpon>crear_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crear_viaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crear_viaje.Designer.cs">
+      <DependentUpon>crear_viaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eliminar_ciudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminar_ciudad.Designer.cs">
+      <DependentUpon>eliminar_ciudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empresa.cs" />
+    <Compile Include="estudiante.cs" />
+    <Compile Include="jubilado.cs" />
+    <Compile Include="lista_usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lista_usuarios.Designer.cs">
+      <DependentUpon>lista_usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuadmin.Designer.cs">
+      <DependentUpon>menuadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuusuario.Designer.cs">
+      <DependentUpon>menuusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificar_viaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificar_viaje.Designer.cs">
+      <DependentUpon>modificar_viaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modif_datos_pers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modif_datos_pers.Designer.cs">
+      <DependentUpon>Modif_datos_pers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modif_empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modif_empresa.Designer.cs">
+      <DependentUpon>modif_empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nueva_ciudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nueva_ciudad.Designer.cs">
+      <DependentUpon>nueva_ciudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pasaje_general.cs" />
+    <Compile Include="patentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patentes.Designer.cs">
+      <DependentUpon>patentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="seleccionar_viaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seleccionar_viaje.Designer.cs">
+      <DependentUpon>seleccionar_viaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tarifa.cs" />
+    <Compile Include="usuario_gral.cs" />
+    <Compile Include="ventanainicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventanainicial.Designer.cs">
+      <DependentUpon>ventanainicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ver_viajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ver_viajes.Designer.cs">
+      <DependentUpon>ver_viajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viaje.cs" />
+    <EmbeddedResource Include="crear_empresa.resx">
+      <DependentUpon>crear_empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crear_usuario.resx">
+      <DependentUpon>crear_usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crear_viaje.resx">
+      <DependentUpon>crear_viaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminar_ciudad.resx">
+      <DependentUpon>eliminar_ciudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lista_usuarios.resx">
+      <DependentUpon>lista_usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuadmin.resx">
+      <DependentUpon>menuadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuusuario.resx">
+      <DependentUpon>menuusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificar_viaje.resx">
+      <DependentUpon>modificar_viaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modif_datos_pers.resx">
+      <DependentUpon>Modif_datos_pers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modif_empresa.resx">
+      <DependentUpon>modif_empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nueva_ciudad.resx">
+      <DependentUpon>nueva_ciudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patentes.resx">
+      <DependentUpon>patentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="seleccionar_viaje.resx">
+      <DependentUpon>seleccionar_viaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanainicial.resx">
+      <DependentUpon>ventanainicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ver_viajes.resx">
+      <DependentUpon>ver_viajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plano-01.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
